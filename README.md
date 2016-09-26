@@ -1,6 +1,7 @@
 # Marathon
 
-Client gem for the Marathon scheduler
+Client gem for the Marathon scheduler>
+**NOTE: This is not actively being maintained by Mesosphere.**
 
 ## Installation
 
